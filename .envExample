@@ -1,0 +1,5 @@
+CD_HOST=localhost
+CD_USER=username
+CD_PASSWORD=password
+CD_DBNAME=companydirectory
+CD_PORT=3306
