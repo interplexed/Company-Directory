@@ -1,5 +1,8 @@
 # Company Directory - Who's Who In Your Org
 
+>[!NOTE]
+>This was submitted for a project in 2024, and has only had minor enhancements since
+
 ## Description
 Set the scene - 18 months ago the project was commissioned, but the developer's left and now there's a partially completed application to be fixed and finished *as expected*.  
 Interact with the [Company Directory](https://lewiscooper.dev/companydirectory) of personnel, department and location data to keep on top of the most up to date information, and enhance collaboration by finding out who is who, where they are, and what they do.  
